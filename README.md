@@ -1,5 +1,12 @@
-# Create React Native App
-[![npm version](https://badge.fury.io/js/create-react-native-app.svg)](https://badge.fury.io/js/create-react-native-app)
+# Cloudtea CLI for APP
+[![npm version](https://badge.fury.io/js/cloudtea-cli.svg)](https://badge.fury.io/js/cloudtea-cli)
+
+## Why??
+
+CRNA is a simple tool to let u get started quickly. However, there still have some MUST have features including:
+* A good typing systems to help check errors in build time (TypingScript)
+* Use NodeJS native modules, such as: TCP
+* Deploy systems to build and deploy IPA and APK in no config
 
 Create React Native apps with no build configuration.
 
